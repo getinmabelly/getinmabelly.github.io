@@ -4,6 +4,7 @@ title: "Get In Ma Belly"
 description: "Trying out the best burgs in Sydney."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.ico'
+url: 'https://getinmabelly.github.io'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'getinmabelly-github-io'
