@@ -17,7 +17,7 @@ You probably won't need to use any of this stuff, but below is how to do it.
 markdown guide: https://jekyllrb.com/docs/posts/
 
 
-#Title Text
+# Title Text
 
 [Link](https://example.com)
 
